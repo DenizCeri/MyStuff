@@ -1,0 +1,47 @@
+
+#headbanner{
+    background: gray;
+    margin: 0px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+p{
+    background: gray;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#personName{
+    background: lightgrey;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display: wrap;
+}
+#magListe{
+    margin-left: 25%;
+    background-color: lightgreen;
+    padding: 3%;
+    
+}
+#magnichtListe{
+    margin: 50px;
+    background-color: salmon;
+    padding: 3%;
+    max-width: 50%;
+}
+ul{
+    display: inline-block;
+}
+#machen:hover{
+    background: lightsteelblue;
+
+}
