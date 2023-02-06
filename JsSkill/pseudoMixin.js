@@ -1,3 +1,6 @@
+const result = document.querySelector(".result");
+
+
 let mixin = function(receiver, supplier ){
     for(let i in supplier){
         
@@ -17,4 +20,4 @@ let b = {
     weight: 90
 };
 mixin(a,b);
-console.log(a);
+result.innerHTML(a);
